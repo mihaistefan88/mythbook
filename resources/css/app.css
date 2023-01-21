@@ -1,0 +1,23 @@
+body {
+    background-color: #232323;
+    color: #ededed;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+    background-color: #ffff00;
+}
+#meniu {
+    display:flex;
+    justify-content: between;
+    align-items:start
+}
